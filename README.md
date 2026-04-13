@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/anilkumar8070/DSA-journey/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/anilkumar8070/DSA-journey/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/anilkumar8070/DSA-journey/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -25,10 +26,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/anilkumar8070/DSA-journey/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/anilkumar8070/DSA-journey/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/anilkumar8070/DSA-journey/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/anilkumar8070/DSA-journey/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
