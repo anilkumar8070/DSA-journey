@@ -50,6 +50,7 @@
 | [0069-sqrtx](https://github.com/anilkumar8070/DSA-journey/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/anilkumar8070/DSA-journey/tree/main/0070-climbing-stairs/) | Easy |
 | [0319-bulb-switcher](https://github.com/anilkumar8070/DSA-journey/tree/main/0319-bulb-switcher/) | Medium |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/anilkumar8070/DSA-journey/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -78,4 +79,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/anilkumar8070/DSA-journey/tree/main/0070-climbing-stairs/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/anilkumar8070/DSA-journey/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 <!---LeetCode Topics End-->
