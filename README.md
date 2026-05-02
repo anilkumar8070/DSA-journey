@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/anilkumar8070/DSA-journey/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0118-pascals-triangle](https://github.com/anilkumar8070/DSA-journey/tree/main/0118-pascals-triangle/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/anilkumar8070/DSA-journey/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/anilkumar8070/DSA-journey/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/anilkumar8070/DSA-journey/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
@@ -76,6 +77,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/anilkumar8070/DSA-journey/tree/main/0070-climbing-stairs/) | Easy |
+| [0118-pascals-triangle](https://github.com/anilkumar8070/DSA-journey/tree/main/0118-pascals-triangle/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
