@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/anilkumar8070/DSA-journey/tree/main/0001-two-sum/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/anilkumar8070/DSA-journey/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0118-pascals-triangle](https://github.com/anilkumar8070/DSA-journey/tree/main/0118-pascals-triangle/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/anilkumar8070/DSA-journey/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -89,6 +90,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/anilkumar8070/DSA-journey/tree/main/0001-two-sum/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/anilkumar8070/DSA-journey/tree/main/0073-set-matrix-zeroes/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
