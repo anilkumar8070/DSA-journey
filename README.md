@@ -153,4 +153,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/anilkumar8070/DSA-journey/tree/main/0796-rotate-string/) | Easy |
+## Shell
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0195-tenth-line](https://github.com/anilkumar8070/DSA-journey/tree/main/0195-tenth-line/) | Easy |
 <!---LeetCode Topics End-->
