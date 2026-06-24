@@ -13,6 +13,7 @@
 | [0152-maximum-product-subarray](https://github.com/anilkumar8070/DSA-journey/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anilkumar8070/DSA-journey/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0169-majority-element](https://github.com/anilkumar8070/DSA-journey/tree/main/0169-majority-element/) | Easy |
+| [0189-rotate-array](https://github.com/anilkumar8070/DSA-journey/tree/main/0189-rotate-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/anilkumar8070/DSA-journey/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/anilkumar8070/DSA-journey/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/anilkumar8070/DSA-journey/tree/main/0229-majority-element-ii/) | Medium |
@@ -44,6 +45,7 @@
 | [0015-3sum](https://github.com/anilkumar8070/DSA-journey/tree/main/0015-3sum/) | Medium |
 | [0061-rotate-list](https://github.com/anilkumar8070/DSA-journey/tree/main/0061-rotate-list/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/anilkumar8070/DSA-journey/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0189-rotate-array](https://github.com/anilkumar8070/DSA-journey/tree/main/0189-rotate-array/) | Medium |
 | [0344-reverse-string](https://github.com/anilkumar8070/DSA-journey/tree/main/0344-reverse-string/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/anilkumar8070/DSA-journey/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/anilkumar8070/DSA-journey/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
@@ -74,6 +76,7 @@
 | [0050-powx-n](https://github.com/anilkumar8070/DSA-journey/tree/main/0050-powx-n/) | Medium |
 | [0069-sqrtx](https://github.com/anilkumar8070/DSA-journey/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/anilkumar8070/DSA-journey/tree/main/0070-climbing-stairs/) | Easy |
+| [0189-rotate-array](https://github.com/anilkumar8070/DSA-journey/tree/main/0189-rotate-array/) | Medium |
 | [0319-bulb-switcher](https://github.com/anilkumar8070/DSA-journey/tree/main/0319-bulb-switcher/) | Medium |
 | [0371-sum-of-two-integers](https://github.com/anilkumar8070/DSA-journey/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0509-fibonacci-number](https://github.com/anilkumar8070/DSA-journey/tree/main/0509-fibonacci-number/) | Easy |
