@@ -29,6 +29,7 @@
 | [0069-sqrtx](https://github.com/anilkumar8070/DSA-journey/tree/main/0069-sqrtx/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anilkumar8070/DSA-journey/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/anilkumar8070/DSA-journey/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0367-valid-perfect-square](https://github.com/anilkumar8070/DSA-journey/tree/main/0367-valid-perfect-square/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/anilkumar8070/DSA-journey/tree/main/0713-subarray-product-less-than-k/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -79,6 +80,7 @@
 | [0070-climbing-stairs](https://github.com/anilkumar8070/DSA-journey/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/anilkumar8070/DSA-journey/tree/main/0189-rotate-array/) | Medium |
 | [0319-bulb-switcher](https://github.com/anilkumar8070/DSA-journey/tree/main/0319-bulb-switcher/) | Medium |
+| [0367-valid-perfect-square](https://github.com/anilkumar8070/DSA-journey/tree/main/0367-valid-perfect-square/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/anilkumar8070/DSA-journey/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0509-fibonacci-number](https://github.com/anilkumar8070/DSA-journey/tree/main/0509-fibonacci-number/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/anilkumar8070/DSA-journey/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
