@@ -22,6 +22,7 @@
 | [0485-max-consecutive-ones](https://github.com/anilkumar8070/DSA-journey/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/anilkumar8070/DSA-journey/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0867-transpose-matrix](https://github.com/anilkumar8070/DSA-journey/tree/main/0867-transpose-matrix/) | Easy |
+| [1408-string-matching-in-an-array](https://github.com/anilkumar8070/DSA-journey/tree/main/1408-string-matching-in-an-array/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/anilkumar8070/DSA-journey/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/anilkumar8070/DSA-journey/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 ## Binary Search
@@ -61,6 +62,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/anilkumar8070/DSA-journey/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0344-reverse-string](https://github.com/anilkumar8070/DSA-journey/tree/main/0344-reverse-string/) | Easy |
 | [0796-rotate-string](https://github.com/anilkumar8070/DSA-journey/tree/main/0796-rotate-string/) | Easy |
+| [1408-string-matching-in-an-array](https://github.com/anilkumar8070/DSA-journey/tree/main/1408-string-matching-in-an-array/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/anilkumar8070/DSA-journey/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/anilkumar8070/DSA-journey/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [3110-score-of-a-string](https://github.com/anilkumar8070/DSA-journey/tree/main/3110-score-of-a-string/) | Easy |
@@ -170,6 +172,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/anilkumar8070/DSA-journey/tree/main/0796-rotate-string/) | Easy |
+| [1408-string-matching-in-an-array](https://github.com/anilkumar8070/DSA-journey/tree/main/1408-string-matching-in-an-array/) | Easy |
 ## Shell
 | Problem Name | Difficulty |
 | ------- | ------- |
