@@ -23,6 +23,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/anilkumar8070/DSA-journey/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0867-transpose-matrix](https://github.com/anilkumar8070/DSA-journey/tree/main/0867-transpose-matrix/) | Easy |
 | [1408-string-matching-in-an-array](https://github.com/anilkumar8070/DSA-journey/tree/main/1408-string-matching-in-an-array/) | Easy |
+| [1480-running-sum-of-1d-array](https://github.com/anilkumar8070/DSA-journey/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/anilkumar8070/DSA-journey/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/anilkumar8070/DSA-journey/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 ## Binary Search
@@ -46,6 +47,7 @@
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/anilkumar8070/DSA-journey/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/anilkumar8070/DSA-journey/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [1480-running-sum-of-1d-array](https://github.com/anilkumar8070/DSA-journey/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
