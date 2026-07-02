@@ -15,6 +15,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anilkumar8070/DSA-journey/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0169-majority-element](https://github.com/anilkumar8070/DSA-journey/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/anilkumar8070/DSA-journey/tree/main/0189-rotate-array/) | Medium |
+| [0198-house-robber](https://github.com/anilkumar8070/DSA-journey/tree/main/0198-house-robber/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/anilkumar8070/DSA-journey/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/anilkumar8070/DSA-journey/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/anilkumar8070/DSA-journey/tree/main/0229-majority-element-ii/) | Medium |
@@ -120,6 +121,7 @@
 | [0070-climbing-stairs](https://github.com/anilkumar8070/DSA-journey/tree/main/0070-climbing-stairs/) | Easy |
 | [0118-pascals-triangle](https://github.com/anilkumar8070/DSA-journey/tree/main/0118-pascals-triangle/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/anilkumar8070/DSA-journey/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0198-house-robber](https://github.com/anilkumar8070/DSA-journey/tree/main/0198-house-robber/) | Medium |
 | [0509-fibonacci-number](https://github.com/anilkumar8070/DSA-journey/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
