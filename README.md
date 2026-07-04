@@ -20,6 +20,7 @@
 | [0217-contains-duplicate](https://github.com/anilkumar8070/DSA-journey/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/anilkumar8070/DSA-journey/tree/main/0229-majority-element-ii/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/anilkumar8070/DSA-journey/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anilkumar8070/DSA-journey/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/anilkumar8070/DSA-journey/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/anilkumar8070/DSA-journey/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0867-transpose-matrix](https://github.com/anilkumar8070/DSA-journey/tree/main/0867-transpose-matrix/) | Easy |
@@ -145,6 +146,7 @@
 | [0217-contains-duplicate](https://github.com/anilkumar8070/DSA-journey/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/anilkumar8070/DSA-journey/tree/main/0229-majority-element-ii/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/anilkumar8070/DSA-journey/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anilkumar8070/DSA-journey/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anilkumar8070/DSA-journey/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/anilkumar8070/DSA-journey/tree/main/1748-sum-of-unique-elements/) | Easy |
 ## Matrix
