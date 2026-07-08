@@ -81,6 +81,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/anilkumar8070/DSA-journey/tree/main/0002-add-two-numbers/) | Medium |
 | [0061-rotate-list](https://github.com/anilkumar8070/DSA-journey/tree/main/0061-rotate-list/) | Medium |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/anilkumar8070/DSA-journey/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0141-linked-list-cycle](https://github.com/anilkumar8070/DSA-journey/tree/main/0141-linked-list-cycle/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/anilkumar8070/DSA-journey/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/anilkumar8070/DSA-journey/tree/main/0206-reverse-linked-list/) | Easy |
