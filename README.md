@@ -60,6 +60,7 @@
 | [0015-3sum](https://github.com/anilkumar8070/DSA-journey/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anilkumar8070/DSA-journey/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0061-rotate-list](https://github.com/anilkumar8070/DSA-journey/tree/main/0061-rotate-list/) | Medium |
+| [0141-linked-list-cycle](https://github.com/anilkumar8070/DSA-journey/tree/main/0141-linked-list-cycle/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/anilkumar8070/DSA-journey/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0189-rotate-array](https://github.com/anilkumar8070/DSA-journey/tree/main/0189-rotate-array/) | Medium |
 | [0344-reverse-string](https://github.com/anilkumar8070/DSA-journey/tree/main/0344-reverse-string/) | Easy |
@@ -79,6 +80,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/anilkumar8070/DSA-journey/tree/main/0061-rotate-list/) | Medium |
+| [0141-linked-list-cycle](https://github.com/anilkumar8070/DSA-journey/tree/main/0141-linked-list-cycle/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/anilkumar8070/DSA-journey/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/anilkumar8070/DSA-journey/tree/main/0206-reverse-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/anilkumar8070/DSA-journey/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
@@ -148,6 +150,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/anilkumar8070/DSA-journey/tree/main/0001-two-sum/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/anilkumar8070/DSA-journey/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0141-linked-list-cycle](https://github.com/anilkumar8070/DSA-journey/tree/main/0141-linked-list-cycle/) | Easy |
 | [0169-majority-element](https://github.com/anilkumar8070/DSA-journey/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/anilkumar8070/DSA-journey/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/anilkumar8070/DSA-journey/tree/main/0229-majority-element-ii/) | Medium |
