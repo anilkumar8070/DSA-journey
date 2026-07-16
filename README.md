@@ -29,6 +29,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anilkumar8070/DSA-journey/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1408-string-matching-in-an-array](https://github.com/anilkumar8070/DSA-journey/tree/main/1408-string-matching-in-an-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/anilkumar8070/DSA-journey/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1636-sort-array-by-increasing-frequency](https://github.com/anilkumar8070/DSA-journey/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/anilkumar8070/DSA-journey/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/anilkumar8070/DSA-journey/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 ## Binary Search
@@ -163,6 +164,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/anilkumar8070/DSA-journey/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anilkumar8070/DSA-journey/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anilkumar8070/DSA-journey/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1636-sort-array-by-increasing-frequency](https://github.com/anilkumar8070/DSA-journey/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/anilkumar8070/DSA-journey/tree/main/1748-sum-of-unique-elements/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -178,6 +180,7 @@
 | [0229-majority-element-ii](https://github.com/anilkumar8070/DSA-journey/tree/main/0229-majority-element-ii/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/anilkumar8070/DSA-journey/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anilkumar8070/DSA-journey/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1636-sort-array-by-increasing-frequency](https://github.com/anilkumar8070/DSA-journey/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
