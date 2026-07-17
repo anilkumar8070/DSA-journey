@@ -118,10 +118,12 @@
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/anilkumar8070/DSA-journey/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/anilkumar8070/DSA-journey/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/anilkumar8070/DSA-journey/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/anilkumar8070/DSA-journey/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -130,6 +132,7 @@
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/anilkumar8070/DSA-journey/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/anilkumar8070/DSA-journey/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -228,4 +231,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/anilkumar8070/DSA-journey/tree/main/0239-sliding-window-maximum/) | Hard |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/anilkumar8070/DSA-journey/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
