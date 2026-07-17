@@ -120,6 +120,7 @@
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/anilkumar8070/DSA-journey/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/anilkumar8070/DSA-journey/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0701-insert-into-a-binary-search-tree](https://github.com/anilkumar8070/DSA-journey/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -129,11 +130,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/anilkumar8070/DSA-journey/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0701-insert-into-a-binary-search-tree](https://github.com/anilkumar8070/DSA-journey/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/anilkumar8070/DSA-journey/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/anilkumar8070/DSA-journey/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0701-insert-into-a-binary-search-tree](https://github.com/anilkumar8070/DSA-journey/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
