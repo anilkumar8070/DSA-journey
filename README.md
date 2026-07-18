@@ -121,6 +121,7 @@
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/anilkumar8070/DSA-journey/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/anilkumar8070/DSA-journey/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0110-balanced-binary-tree](https://github.com/anilkumar8070/DSA-journey/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/anilkumar8070/DSA-journey/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/anilkumar8070/DSA-journey/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/anilkumar8070/DSA-journey/tree/main/0222-count-complete-tree-nodes/) | Easy |
@@ -131,6 +132,7 @@
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/anilkumar8070/DSA-journey/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/anilkumar8070/DSA-journey/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0110-balanced-binary-tree](https://github.com/anilkumar8070/DSA-journey/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/anilkumar8070/DSA-journey/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/anilkumar8070/DSA-journey/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/anilkumar8070/DSA-journey/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
@@ -144,6 +146,7 @@
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/anilkumar8070/DSA-journey/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/anilkumar8070/DSA-journey/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0110-balanced-binary-tree](https://github.com/anilkumar8070/DSA-journey/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/anilkumar8070/DSA-journey/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/anilkumar8070/DSA-journey/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/anilkumar8070/DSA-journey/tree/main/0222-count-complete-tree-nodes/) | Easy |
