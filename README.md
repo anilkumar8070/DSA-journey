@@ -128,6 +128,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/anilkumar8070/DSA-journey/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/anilkumar8070/DSA-journey/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/anilkumar8070/DSA-journey/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0543-diameter-of-binary-tree](https://github.com/anilkumar8070/DSA-journey/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/anilkumar8070/DSA-journey/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -139,6 +140,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/anilkumar8070/DSA-journey/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/anilkumar8070/DSA-journey/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/anilkumar8070/DSA-journey/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0543-diameter-of-binary-tree](https://github.com/anilkumar8070/DSA-journey/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -155,6 +157,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/anilkumar8070/DSA-journey/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/anilkumar8070/DSA-journey/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/anilkumar8070/DSA-journey/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0543-diameter-of-binary-tree](https://github.com/anilkumar8070/DSA-journey/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/anilkumar8070/DSA-journey/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
