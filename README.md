@@ -68,6 +68,7 @@
 | [0141-linked-list-cycle](https://github.com/anilkumar8070/DSA-journey/tree/main/0141-linked-list-cycle/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/anilkumar8070/DSA-journey/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0189-rotate-array](https://github.com/anilkumar8070/DSA-journey/tree/main/0189-rotate-array/) | Medium |
+| [0202-happy-number](https://github.com/anilkumar8070/DSA-journey/tree/main/0202-happy-number/) | Easy |
 | [0344-reverse-string](https://github.com/anilkumar8070/DSA-journey/tree/main/0344-reverse-string/) | Easy |
 | [0392-is-subsequence](https://github.com/anilkumar8070/DSA-journey/tree/main/0392-is-subsequence/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/anilkumar8070/DSA-journey/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -112,6 +113,7 @@
 | [0069-sqrtx](https://github.com/anilkumar8070/DSA-journey/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/anilkumar8070/DSA-journey/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/anilkumar8070/DSA-journey/tree/main/0189-rotate-array/) | Medium |
+| [0202-happy-number](https://github.com/anilkumar8070/DSA-journey/tree/main/0202-happy-number/) | Easy |
 | [0319-bulb-switcher](https://github.com/anilkumar8070/DSA-journey/tree/main/0319-bulb-switcher/) | Medium |
 | [0367-valid-perfect-square](https://github.com/anilkumar8070/DSA-journey/tree/main/0367-valid-perfect-square/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/anilkumar8070/DSA-journey/tree/main/0371-sum-of-two-integers/) | Medium |
@@ -194,6 +196,7 @@
 | [0073-set-matrix-zeroes](https://github.com/anilkumar8070/DSA-journey/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0141-linked-list-cycle](https://github.com/anilkumar8070/DSA-journey/tree/main/0141-linked-list-cycle/) | Easy |
 | [0169-majority-element](https://github.com/anilkumar8070/DSA-journey/tree/main/0169-majority-element/) | Easy |
+| [0202-happy-number](https://github.com/anilkumar8070/DSA-journey/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/anilkumar8070/DSA-journey/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/anilkumar8070/DSA-journey/tree/main/0229-majority-element-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/anilkumar8070/DSA-journey/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -294,4 +297,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/anilkumar8070/DSA-journey/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0202-happy-number](https://github.com/anilkumar8070/DSA-journey/tree/main/0202-happy-number/) | Easy |
 <!---LeetCode Topics End-->
