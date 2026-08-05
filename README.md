@@ -69,6 +69,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/anilkumar8070/DSA-journey/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0189-rotate-array](https://github.com/anilkumar8070/DSA-journey/tree/main/0189-rotate-array/) | Medium |
 | [0344-reverse-string](https://github.com/anilkumar8070/DSA-journey/tree/main/0344-reverse-string/) | Easy |
+| [0392-is-subsequence](https://github.com/anilkumar8070/DSA-journey/tree/main/0392-is-subsequence/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/anilkumar8070/DSA-journey/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/anilkumar8070/DSA-journey/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/anilkumar8070/DSA-journey/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
@@ -77,6 +78,7 @@
 | ------- | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/anilkumar8070/DSA-journey/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0344-reverse-string](https://github.com/anilkumar8070/DSA-journey/tree/main/0344-reverse-string/) | Easy |
+| [0392-is-subsequence](https://github.com/anilkumar8070/DSA-journey/tree/main/0392-is-subsequence/) | Easy |
 | [0796-rotate-string](https://github.com/anilkumar8070/DSA-journey/tree/main/0796-rotate-string/) | Easy |
 | [1408-string-matching-in-an-array](https://github.com/anilkumar8070/DSA-journey/tree/main/1408-string-matching-in-an-array/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/anilkumar8070/DSA-journey/tree/main/1768-merge-strings-alternately/) | Easy |
@@ -170,6 +172,7 @@
 | [0118-pascals-triangle](https://github.com/anilkumar8070/DSA-journey/tree/main/0118-pascals-triangle/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/anilkumar8070/DSA-journey/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/anilkumar8070/DSA-journey/tree/main/0198-house-robber/) | Medium |
+| [0392-is-subsequence](https://github.com/anilkumar8070/DSA-journey/tree/main/0392-is-subsequence/) | Easy |
 | [0509-fibonacci-number](https://github.com/anilkumar8070/DSA-journey/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
