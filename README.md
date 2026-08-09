@@ -21,6 +21,7 @@
 | [0217-contains-duplicate](https://github.com/anilkumar8070/DSA-journey/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/anilkumar8070/DSA-journey/tree/main/0229-majority-element-ii/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/anilkumar8070/DSA-journey/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0268-missing-number](https://github.com/anilkumar8070/DSA-journey/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/anilkumar8070/DSA-journey/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/anilkumar8070/DSA-journey/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anilkumar8070/DSA-journey/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -44,6 +45,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anilkumar8070/DSA-journey/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/anilkumar8070/DSA-journey/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/anilkumar8070/DSA-journey/tree/main/0222-count-complete-tree-nodes/) | Easy |
+| [0268-missing-number](https://github.com/anilkumar8070/DSA-journey/tree/main/0268-missing-number/) | Easy |
 | [0278-first-bad-version](https://github.com/anilkumar8070/DSA-journey/tree/main/0278-first-bad-version/) | Easy |
 | [0367-valid-perfect-square](https://github.com/anilkumar8070/DSA-journey/tree/main/0367-valid-perfect-square/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/anilkumar8070/DSA-journey/tree/main/0713-subarray-product-less-than-k/) | Medium |
@@ -116,6 +118,7 @@
 | [0070-climbing-stairs](https://github.com/anilkumar8070/DSA-journey/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/anilkumar8070/DSA-journey/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/anilkumar8070/DSA-journey/tree/main/0202-happy-number/) | Easy |
+| [0268-missing-number](https://github.com/anilkumar8070/DSA-journey/tree/main/0268-missing-number/) | Easy |
 | [0319-bulb-switcher](https://github.com/anilkumar8070/DSA-journey/tree/main/0319-bulb-switcher/) | Medium |
 | [0367-valid-perfect-square](https://github.com/anilkumar8070/DSA-journey/tree/main/0367-valid-perfect-square/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/anilkumar8070/DSA-journey/tree/main/0371-sum-of-two-integers/) | Medium |
@@ -189,6 +192,7 @@
 | [0190-reverse-bits](https://github.com/anilkumar8070/DSA-journey/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/anilkumar8070/DSA-journey/tree/main/0191-number-of-1-bits/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/anilkumar8070/DSA-journey/tree/main/0222-count-complete-tree-nodes/) | Easy |
+| [0268-missing-number](https://github.com/anilkumar8070/DSA-journey/tree/main/0268-missing-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/anilkumar8070/DSA-journey/tree/main/0371-sum-of-two-integers/) | Medium |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/anilkumar8070/DSA-journey/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 ## Hash Table
@@ -202,6 +206,7 @@
 | [0202-happy-number](https://github.com/anilkumar8070/DSA-journey/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/anilkumar8070/DSA-journey/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/anilkumar8070/DSA-journey/tree/main/0229-majority-element-ii/) | Medium |
+| [0268-missing-number](https://github.com/anilkumar8070/DSA-journey/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/anilkumar8070/DSA-journey/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/anilkumar8070/DSA-journey/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anilkumar8070/DSA-journey/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -221,6 +226,7 @@
 | [0169-majority-element](https://github.com/anilkumar8070/DSA-journey/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/anilkumar8070/DSA-journey/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/anilkumar8070/DSA-journey/tree/main/0229-majority-element-ii/) | Medium |
+| [0268-missing-number](https://github.com/anilkumar8070/DSA-journey/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/anilkumar8070/DSA-journey/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/anilkumar8070/DSA-journey/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/anilkumar8070/DSA-journey/tree/main/0977-squares-of-a-sorted-array/) | Easy |
