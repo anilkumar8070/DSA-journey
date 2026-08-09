@@ -24,6 +24,7 @@
 | [0268-missing-number](https://github.com/anilkumar8070/DSA-journey/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/anilkumar8070/DSA-journey/tree/main/0283-move-zeroes/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/anilkumar8070/DSA-journey/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0414-third-maximum-number](https://github.com/anilkumar8070/DSA-journey/tree/main/0414-third-maximum-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/anilkumar8070/DSA-journey/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anilkumar8070/DSA-journey/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/anilkumar8070/DSA-journey/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -230,6 +231,7 @@
 | [0229-majority-element-ii](https://github.com/anilkumar8070/DSA-journey/tree/main/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/anilkumar8070/DSA-journey/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/anilkumar8070/DSA-journey/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0414-third-maximum-number](https://github.com/anilkumar8070/DSA-journey/tree/main/0414-third-maximum-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/anilkumar8070/DSA-journey/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/anilkumar8070/DSA-journey/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anilkumar8070/DSA-journey/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
