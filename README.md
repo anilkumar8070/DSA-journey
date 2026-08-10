@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/anilkumar8070/DSA-journey/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/anilkumar8070/DSA-journey/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0011-container-with-most-water](https://github.com/anilkumar8070/DSA-journey/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/anilkumar8070/DSA-journey/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anilkumar8070/DSA-journey/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0035-search-insert-position](https://github.com/anilkumar8070/DSA-journey/tree/main/0035-search-insert-position/) | Easy |
@@ -67,6 +68,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/anilkumar8070/DSA-journey/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/anilkumar8070/DSA-journey/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anilkumar8070/DSA-journey/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0061-rotate-list](https://github.com/anilkumar8070/DSA-journey/tree/main/0061-rotate-list/) | Medium |
@@ -314,4 +316,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/anilkumar8070/DSA-journey/tree/main/0202-happy-number/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/anilkumar8070/DSA-journey/tree/main/0011-container-with-most-water/) | Medium |
 <!---LeetCode Topics End-->
