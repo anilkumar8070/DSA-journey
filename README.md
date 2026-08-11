@@ -77,6 +77,7 @@
 | [0011-container-with-most-water](https://github.com/anilkumar8070/DSA-journey/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/anilkumar8070/DSA-journey/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anilkumar8070/DSA-journey/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anilkumar8070/DSA-journey/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0061-rotate-list](https://github.com/anilkumar8070/DSA-journey/tree/main/0061-rotate-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/anilkumar8070/DSA-journey/tree/main/0141-linked-list-cycle/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/anilkumar8070/DSA-journey/tree/main/0151-reverse-words-in-a-string/) | Medium |
@@ -93,6 +94,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anilkumar8070/DSA-journey/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/anilkumar8070/DSA-journey/tree/main/0013-roman-to-integer/) | Easy |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anilkumar8070/DSA-journey/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/anilkumar8070/DSA-journey/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/anilkumar8070/DSA-journey/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/anilkumar8070/DSA-journey/tree/main/0344-reverse-string/) | Easy |
@@ -269,6 +271,7 @@
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anilkumar8070/DSA-journey/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0796-rotate-string](https://github.com/anilkumar8070/DSA-journey/tree/main/0796-rotate-string/) | Easy |
 | [1408-string-matching-in-an-array](https://github.com/anilkumar8070/DSA-journey/tree/main/1408-string-matching-in-an-array/) | Easy |
 ## Shell
@@ -332,4 +335,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/anilkumar8070/DSA-journey/tree/main/0011-container-with-most-water/) | Medium |
+## Z Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anilkumar8070/DSA-journey/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Knuth–Morris–Pratt Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anilkumar8070/DSA-journey/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Boyer–Moore String-Search Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anilkumar8070/DSA-journey/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
