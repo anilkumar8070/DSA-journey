@@ -357,4 +357,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/anilkumar8070/DSA-journey/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0176-second-highest-salary](https://github.com/anilkumar8070/DSA-journey/tree/main/0176-second-highest-salary/) | Medium |
 <!---LeetCode Topics End-->
