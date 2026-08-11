@@ -98,6 +98,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/anilkumar8070/DSA-journey/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/anilkumar8070/DSA-journey/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/anilkumar8070/DSA-journey/tree/main/0344-reverse-string/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/anilkumar8070/DSA-journey/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/anilkumar8070/DSA-journey/tree/main/0392-is-subsequence/) | Easy |
 | [0796-rotate-string](https://github.com/anilkumar8070/DSA-journey/tree/main/0796-rotate-string/) | Easy |
 | [1408-string-matching-in-an-array](https://github.com/anilkumar8070/DSA-journey/tree/main/1408-string-matching-in-an-array/) | Easy |
@@ -226,6 +227,7 @@
 | [0242-valid-anagram](https://github.com/anilkumar8070/DSA-journey/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/anilkumar8070/DSA-journey/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/anilkumar8070/DSA-journey/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0387-first-unique-character-in-a-string](https://github.com/anilkumar8070/DSA-journey/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/anilkumar8070/DSA-journey/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anilkumar8070/DSA-journey/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0496-next-greater-element-i](https://github.com/anilkumar8070/DSA-journey/tree/main/0496-next-greater-element-i/) | Easy |
@@ -267,6 +269,7 @@
 | [0169-majority-element](https://github.com/anilkumar8070/DSA-journey/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/anilkumar8070/DSA-journey/tree/main/0229-majority-element-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/anilkumar8070/DSA-journey/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0387-first-unique-character-in-a-string](https://github.com/anilkumar8070/DSA-journey/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/anilkumar8070/DSA-journey/tree/main/1748-sum-of-unique-elements/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
@@ -294,6 +297,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/anilkumar8070/DSA-journey/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0387-first-unique-character-in-a-string](https://github.com/anilkumar8070/DSA-journey/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
