@@ -36,6 +36,7 @@
 | [0496-next-greater-element-i](https://github.com/anilkumar8070/DSA-journey/tree/main/0496-next-greater-element-i/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/anilkumar8070/DSA-journey/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0867-transpose-matrix](https://github.com/anilkumar8070/DSA-journey/tree/main/0867-transpose-matrix/) | Easy |
+| [0904-fruit-into-baskets](https://github.com/anilkumar8070/DSA-journey/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/anilkumar8070/DSA-journey/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anilkumar8070/DSA-journey/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1408-string-matching-in-an-array](https://github.com/anilkumar8070/DSA-journey/tree/main/1408-string-matching-in-an-array/) | Easy |
@@ -66,6 +67,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/anilkumar8070/DSA-journey/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/anilkumar8070/DSA-journey/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0713-subarray-product-less-than-k](https://github.com/anilkumar8070/DSA-journey/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/anilkumar8070/DSA-journey/tree/main/0904-fruit-into-baskets/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anilkumar8070/DSA-journey/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -235,6 +237,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/anilkumar8070/DSA-journey/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anilkumar8070/DSA-journey/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0496-next-greater-element-i](https://github.com/anilkumar8070/DSA-journey/tree/main/0496-next-greater-element-i/) | Easy |
+| [0904-fruit-into-baskets](https://github.com/anilkumar8070/DSA-journey/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anilkumar8070/DSA-journey/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/anilkumar8070/DSA-journey/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/anilkumar8070/DSA-journey/tree/main/1748-sum-of-unique-elements/) | Easy |
