@@ -41,6 +41,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anilkumar8070/DSA-journey/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1408-string-matching-in-an-array](https://github.com/anilkumar8070/DSA-journey/tree/main/1408-string-matching-in-an-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/anilkumar8070/DSA-journey/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1539-kth-missing-positive-number](https://github.com/anilkumar8070/DSA-journey/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/anilkumar8070/DSA-journey/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/anilkumar8070/DSA-journey/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/anilkumar8070/DSA-journey/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
@@ -60,6 +61,7 @@
 | [0278-first-bad-version](https://github.com/anilkumar8070/DSA-journey/tree/main/0278-first-bad-version/) | Easy |
 | [0367-valid-perfect-square](https://github.com/anilkumar8070/DSA-journey/tree/main/0367-valid-perfect-square/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/anilkumar8070/DSA-journey/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [1539-kth-missing-positive-number](https://github.com/anilkumar8070/DSA-journey/tree/main/1539-kth-missing-positive-number/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
