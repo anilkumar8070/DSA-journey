@@ -15,6 +15,7 @@
 | [0053-maximum-subarray](https://github.com/anilkumar8070/DSA-journey/tree/main/0053-maximum-subarray/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/anilkumar8070/DSA-journey/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0118-pascals-triangle](https://github.com/anilkumar8070/DSA-journey/tree/main/0118-pascals-triangle/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/anilkumar8070/DSA-journey/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/anilkumar8070/DSA-journey/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/anilkumar8070/DSA-journey/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anilkumar8070/DSA-journey/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -202,6 +203,7 @@
 | [0053-maximum-subarray](https://github.com/anilkumar8070/DSA-journey/tree/main/0053-maximum-subarray/) | Medium |
 | [0070-climbing-stairs](https://github.com/anilkumar8070/DSA-journey/tree/main/0070-climbing-stairs/) | Easy |
 | [0118-pascals-triangle](https://github.com/anilkumar8070/DSA-journey/tree/main/0118-pascals-triangle/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/anilkumar8070/DSA-journey/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/anilkumar8070/DSA-journey/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/anilkumar8070/DSA-journey/tree/main/0198-house-robber/) | Medium |
 | [0392-is-subsequence](https://github.com/anilkumar8070/DSA-journey/tree/main/0392-is-subsequence/) | Easy |
