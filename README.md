@@ -12,6 +12,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/anilkumar8070/DSA-journey/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/anilkumar8070/DSA-journey/tree/main/0035-search-insert-position/) | Easy |
 | [0041-first-missing-positive](https://github.com/anilkumar8070/DSA-journey/tree/main/0041-first-missing-positive/) | Hard |
+| [0049-group-anagrams](https://github.com/anilkumar8070/DSA-journey/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/anilkumar8070/DSA-journey/tree/main/0053-maximum-subarray/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/anilkumar8070/DSA-journey/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0079-word-search](https://github.com/anilkumar8070/DSA-journey/tree/main/0079-word-search/) | Medium |
@@ -106,6 +107,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/anilkumar8070/DSA-journey/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/anilkumar8070/DSA-journey/tree/main/0013-roman-to-integer/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anilkumar8070/DSA-journey/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0049-group-anagrams](https://github.com/anilkumar8070/DSA-journey/tree/main/0049-group-anagrams/) | Medium |
 | [0079-word-search](https://github.com/anilkumar8070/DSA-journey/tree/main/0079-word-search/) | Medium |
 | [0125-valid-palindrome](https://github.com/anilkumar8070/DSA-journey/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/anilkumar8070/DSA-journey/tree/main/0151-reverse-words-in-a-string/) | Medium |
@@ -234,6 +236,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/anilkumar8070/DSA-journey/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/anilkumar8070/DSA-journey/tree/main/0013-roman-to-integer/) | Easy |
 | [0041-first-missing-positive](https://github.com/anilkumar8070/DSA-journey/tree/main/0041-first-missing-positive/) | Hard |
+| [0049-group-anagrams](https://github.com/anilkumar8070/DSA-journey/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/anilkumar8070/DSA-journey/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/anilkumar8070/DSA-journey/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0141-linked-list-cycle](https://github.com/anilkumar8070/DSA-journey/tree/main/0141-linked-list-cycle/) | Easy |
@@ -263,6 +266,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/anilkumar8070/DSA-journey/tree/main/0015-3sum/) | Medium |
+| [0049-group-anagrams](https://github.com/anilkumar8070/DSA-journey/tree/main/0049-group-anagrams/) | Medium |
 | [0169-majority-element](https://github.com/anilkumar8070/DSA-journey/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/anilkumar8070/DSA-journey/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/anilkumar8070/DSA-journey/tree/main/0229-majority-element-ii/) | Medium |
