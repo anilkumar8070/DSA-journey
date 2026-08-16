@@ -120,6 +120,7 @@
 | [1768-merge-strings-alternately](https://github.com/anilkumar8070/DSA-journey/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/anilkumar8070/DSA-journey/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [3110-score-of-a-string](https://github.com/anilkumar8070/DSA-journey/tree/main/3110-score-of-a-string/) | Easy |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/anilkumar8070/DSA-journey/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -258,6 +259,7 @@
 | [1636-sort-array-by-increasing-frequency](https://github.com/anilkumar8070/DSA-journey/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/anilkumar8070/DSA-journey/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anilkumar8070/DSA-journey/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/anilkumar8070/DSA-journey/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -297,6 +299,7 @@
 | [0347-top-k-frequent-elements](https://github.com/anilkumar8070/DSA-journey/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/anilkumar8070/DSA-journey/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/anilkumar8070/DSA-journey/tree/main/1748-sum-of-unique-elements/) | Easy |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/anilkumar8070/DSA-journey/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
