@@ -213,6 +213,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anilkumar8070/DSA-journey/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/anilkumar8070/DSA-journey/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/anilkumar8070/DSA-journey/tree/main/0198-house-robber/) | Medium |
+| [0338-counting-bits](https://github.com/anilkumar8070/DSA-journey/tree/main/0338-counting-bits/) | Easy |
 | [0392-is-subsequence](https://github.com/anilkumar8070/DSA-journey/tree/main/0392-is-subsequence/) | Easy |
 | [0509-fibonacci-number](https://github.com/anilkumar8070/DSA-journey/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
@@ -227,6 +228,7 @@
 | [0191-number-of-1-bits](https://github.com/anilkumar8070/DSA-journey/tree/main/0191-number-of-1-bits/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/anilkumar8070/DSA-journey/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0268-missing-number](https://github.com/anilkumar8070/DSA-journey/tree/main/0268-missing-number/) | Easy |
+| [0338-counting-bits](https://github.com/anilkumar8070/DSA-journey/tree/main/0338-counting-bits/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/anilkumar8070/DSA-journey/tree/main/0371-sum-of-two-integers/) | Medium |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/anilkumar8070/DSA-journey/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 ## Hash Table
