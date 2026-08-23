@@ -158,6 +158,7 @@
 | [0509-fibonacci-number](https://github.com/anilkumar8070/DSA-journey/tree/main/0509-fibonacci-number/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/anilkumar8070/DSA-journey/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/anilkumar8070/DSA-journey/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/anilkumar8070/DSA-journey/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
