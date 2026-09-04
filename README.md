@@ -50,6 +50,7 @@
 | [1748-sum-of-unique-elements](https://github.com/anilkumar8070/DSA-journey/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/anilkumar8070/DSA-journey/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anilkumar8070/DSA-journey/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3903-smallest-stable-index-i](https://github.com/anilkumar8070/DSA-journey/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -82,6 +83,7 @@
 | [0238-product-of-array-except-self](https://github.com/anilkumar8070/DSA-journey/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/anilkumar8070/DSA-journey/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/anilkumar8070/DSA-journey/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [3903-smallest-stable-index-i](https://github.com/anilkumar8070/DSA-journey/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
