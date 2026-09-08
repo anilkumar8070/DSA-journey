@@ -32,6 +32,7 @@
 | [0239-sliding-window-maximum](https://github.com/anilkumar8070/DSA-journey/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0268-missing-number](https://github.com/anilkumar8070/DSA-journey/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/anilkumar8070/DSA-journey/tree/main/0283-move-zeroes/) | Easy |
+| [0303-range-sum-query-immutable](https://github.com/anilkumar8070/DSA-journey/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/anilkumar8070/DSA-journey/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0414-third-maximum-number](https://github.com/anilkumar8070/DSA-journey/tree/main/0414-third-maximum-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/anilkumar8070/DSA-journey/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
@@ -81,6 +82,7 @@
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/anilkumar8070/DSA-journey/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/anilkumar8070/DSA-journey/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0303-range-sum-query-immutable](https://github.com/anilkumar8070/DSA-journey/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/anilkumar8070/DSA-journey/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/anilkumar8070/DSA-journey/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/anilkumar8070/DSA-journey/tree/main/3903-smallest-stable-index-i/) | Easy |
@@ -395,4 +397,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/anilkumar8070/DSA-journey/tree/main/0079-word-search/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/anilkumar8070/DSA-journey/tree/main/0303-range-sum-query-immutable/) | Easy |
 <!---LeetCode Topics End-->
