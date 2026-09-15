@@ -49,6 +49,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/anilkumar8070/DSA-journey/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/anilkumar8070/DSA-journey/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/anilkumar8070/DSA-journey/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/anilkumar8070/DSA-journey/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1748-sum-of-unique-elements](https://github.com/anilkumar8070/DSA-journey/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/anilkumar8070/DSA-journey/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2559-count-vowel-strings-in-ranges](https://github.com/anilkumar8070/DSA-journey/tree/main/2559-count-vowel-strings-in-ranges/) | Medium |
@@ -70,6 +71,7 @@
 | [0367-valid-perfect-square](https://github.com/anilkumar8070/DSA-journey/tree/main/0367-valid-perfect-square/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/anilkumar8070/DSA-journey/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/anilkumar8070/DSA-journey/tree/main/1539-kth-missing-positive-number/) | Easy |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/anilkumar8070/DSA-journey/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -79,6 +81,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/anilkumar8070/DSA-journey/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/anilkumar8070/DSA-journey/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/anilkumar8070/DSA-journey/tree/main/0904-fruit-into-baskets/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/anilkumar8070/DSA-journey/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anilkumar8070/DSA-journey/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -88,6 +91,7 @@
 | [0303-range-sum-query-immutable](https://github.com/anilkumar8070/DSA-journey/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/anilkumar8070/DSA-journey/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/anilkumar8070/DSA-journey/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/anilkumar8070/DSA-journey/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2559-count-vowel-strings-in-ranges](https://github.com/anilkumar8070/DSA-journey/tree/main/2559-count-vowel-strings-in-ranges/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/anilkumar8070/DSA-journey/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Two Pointers
@@ -267,6 +271,7 @@
 | [0904-fruit-into-baskets](https://github.com/anilkumar8070/DSA-journey/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anilkumar8070/DSA-journey/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/anilkumar8070/DSA-journey/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/anilkumar8070/DSA-journey/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1748-sum-of-unique-elements](https://github.com/anilkumar8070/DSA-journey/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anilkumar8070/DSA-journey/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/anilkumar8070/DSA-journey/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
