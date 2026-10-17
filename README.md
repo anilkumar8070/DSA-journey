@@ -44,6 +44,7 @@
 | [0867-transpose-matrix](https://github.com/anilkumar8070/DSA-journey/tree/main/0867-transpose-matrix/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/anilkumar8070/DSA-journey/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/anilkumar8070/DSA-journey/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/anilkumar8070/DSA-journey/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anilkumar8070/DSA-journey/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1408-string-matching-in-an-array](https://github.com/anilkumar8070/DSA-journey/tree/main/1408-string-matching-in-an-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/anilkumar8070/DSA-journey/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -70,6 +71,7 @@
 | [0278-first-bad-version](https://github.com/anilkumar8070/DSA-journey/tree/main/0278-first-bad-version/) | Easy |
 | [0367-valid-perfect-square](https://github.com/anilkumar8070/DSA-journey/tree/main/0367-valid-perfect-square/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/anilkumar8070/DSA-journey/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/anilkumar8070/DSA-journey/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/anilkumar8070/DSA-journey/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/anilkumar8070/DSA-journey/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 ## Sliding Window
@@ -281,6 +283,7 @@
 | [0073-set-matrix-zeroes](https://github.com/anilkumar8070/DSA-journey/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0079-word-search](https://github.com/anilkumar8070/DSA-journey/tree/main/0079-word-search/) | Medium |
 | [0867-transpose-matrix](https://github.com/anilkumar8070/DSA-journey/tree/main/0867-transpose-matrix/) | Easy |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/anilkumar8070/DSA-journey/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
