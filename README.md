@@ -164,6 +164,7 @@
 | [0050-powx-n](https://github.com/anilkumar8070/DSA-journey/tree/main/0050-powx-n/) | Medium |
 | [0069-sqrtx](https://github.com/anilkumar8070/DSA-journey/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/anilkumar8070/DSA-journey/tree/main/0070-climbing-stairs/) | Easy |
+| [0172-factorial-trailing-zeroes](https://github.com/anilkumar8070/DSA-journey/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0189-rotate-array](https://github.com/anilkumar8070/DSA-journey/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/anilkumar8070/DSA-journey/tree/main/0202-happy-number/) | Easy |
 | [0268-missing-number](https://github.com/anilkumar8070/DSA-journey/tree/main/0268-missing-number/) | Easy |
